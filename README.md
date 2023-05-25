@@ -1,2 +1,2 @@
 # aws-cloud-practitioner
-Curso Aws Certified Cloud Practitioner
+Curso AWS Certified Cloud Practitioner
